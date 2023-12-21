@@ -32,3 +32,10 @@ teradata
 
     sql server 2005 also include MSBI (ssis,ssas,ssrs)
     
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Why SQL>>
+    software kai prakar ke hote hai jaise device, web, mobile, desktop ke front end se data ko 
+    store karne ke liye DBMS ka upyog kiya jata hai
+    "DBMS" Kai prakar ke hote hai mysql,sql server,db2,teradata,netezza etc
+    [backend level pe kisi application ka data store karne ke liye sql language ka use kiya jata hai]
